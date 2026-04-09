@@ -1,4 +1,4 @@
-# Really Simple Syndication (RSL)
+# Really Simple Licensing (RSL)
 
 Really Simple Licensing (RSL) is an open, XML-based standard that enables publishers and platforms to define machine-readable licensing and usage terms for digital assets on the web.
 
